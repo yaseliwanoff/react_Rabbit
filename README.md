@@ -1,7 +1,4 @@
-# GetJob
-
-A modern job marketplace web application.
-
+# Rabbit
 ## Tech stack
 - Frontend: React + Vite
 - Linting: ESLint
